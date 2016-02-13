@@ -3,5 +3,6 @@ Include the js file, and see your webpage appearing cooler than before when you 
 
 1. Include the file cool.js to your webpage
 2. Divide contents of the webpage into sections and add class 'section_relative' to each section.
+**Include jquery files to webpages for it to work.
 
 
