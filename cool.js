@@ -3,7 +3,7 @@ $(document).ready(function() {
     var section_top_position_array = new Array();
     absolute_position('.section_relative');
     $('.section_relative').last().css({"z-index": 1000});
-    $('.section_relative').css({"width": 100%});
+    $('.section_relative').css({"width": '100%'});
     $(window).on('scroll', sections);
 
 
